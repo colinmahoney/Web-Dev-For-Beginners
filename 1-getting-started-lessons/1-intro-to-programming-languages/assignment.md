@@ -22,7 +22,7 @@ Exemplary | Adequate | Needs Improvement
   - Deployment Tools
 
 #### Standard
-github.com/standard/standard
+https://github.com/standard/standard
 
 Standard is a JavaScript style guide, linter, and formatter tool. Standard can be used to check for code errors and to ensure that JavaScript code conforms to the 'standard' formating. Standard is simlar to ESLint, but Standard includes a pre-defined set of rules and ESLint allows the rules to be customized. 
 
