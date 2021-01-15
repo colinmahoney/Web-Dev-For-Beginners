@@ -29,4 +29,11 @@ Standard is a JavaScript style guide, linter, and formatter tool. Standard can b
 #### Electron Packager
 https://github.com/electron/electron-packager
 
-Electron Packager is a tool that packages application source code with other files that are necessary to support the code on different host platforms. Electron is a framework which makes it possible to build desktop application using JavaScript. 
+Electron Packager is a tool that packages application source code with other files that are necessary to support the code on different host platforms. Electron is a framework which makes it possible to build desktop application using JavaScript. One application, written using Electron, can be packaged with helper files for different operating systems. Electron Packager automates the process of packaging your code with the proper helper files for each platform.
+
+#### husky
+https://github.com/okonet/lint-staged
+
+Husky is a tool that allows a programmer to create a trigger to automate the running of another tool when a file is committed or pushed to a Git repository. For instance, Husky can be configured to run a linter on your code every time changes are committed. This not only ensures that the linter is always run before code is committed to the repo, but it also saves the programmer time by automating the process.
+
+
